@@ -7,3 +7,5 @@ yarn-error.log*
 Thumbs.db
 dist/
 build/
+app.env
+db.env
